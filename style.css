@@ -1,0 +1,89 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: rgba(255, 255, 255, 0);
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("header.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 250px;
+  margin-bottom: 30px;
+}
+
+.header.startup h1 {
+  font-size: 2rem;
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 300px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
+
+.btn-primary {
+  background-color: #F05E34;
+  border-color: #F05E34;
+}
+
+.btn-primary:hover {
+  background-color: #DD4B08;
+  border-color: #DD4B08;
+  border-width: 5px;
+  cursor: pointer;
+}
+
+
+
+
+/* OWN BRAINSTORMING 
+
+.container {
+  position: relative;
+  width: 100%;
+  height:auto;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2.3vh;
+}
+
+.buttoned {
+  position: absolute;
+  top: 63.5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  size: 2.3vh;
+}
+
+*/
