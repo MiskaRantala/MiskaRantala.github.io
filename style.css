@@ -11,7 +11,7 @@ body {
 hr {
   max-width: 65px;
   border-width: 3px;
-  border-color: rgba(255, 255, 255, 0.01);
+  border-color: rgba(255, 255, 255, 0);
 }
 
 .faded {
