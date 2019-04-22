@@ -38,6 +38,8 @@ header.startup hr {
   font-weight: 700;
   text-transform: uppercase;
   border-radius: 300px;
+  overflow: hidden;
+  perspective: 1px;
   font-family: 'Montserrat', sans-serif;
 }
 
